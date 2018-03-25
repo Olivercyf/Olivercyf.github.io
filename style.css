@@ -1,5 +1,8 @@
+body{
+    background-image: url("aa.jpg");
+}
 .container {
-    margin: 0 500px 0 500px;
+    margin: -10px 500px 0 500px;
     padding: 10px 20px 10px 20px;
     background-image: url("2.png");
     background-attachment: fixed;
@@ -36,7 +39,9 @@ td{
     font-weight:bold;
 
 }
-
+.ss{
+    text-align: left;
+}
 
 a {
     text-decoration: none;
@@ -53,4 +58,19 @@ a {
 }
 p{
     font-weight:bold;
+}
+#gt-ft-res {
+    line-height: 48px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    position: fixed;
+    border-top: 1px solid #cccccc;
+    background-color: #efefef;
+    z-index: 10;
+}
+span{
+    float:right;
+    color:#0abbe7;
+    margin-right:40px;
 }

@@ -1,0 +1,79 @@
+body{
+    margin:0;
+    padding:0;
+    width:100%;
+    height:100%;
+}
+.tou{
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    background-color:#8c8c8c;
+    height:30px;
+    
+}
+.shenti{
+    height: 115px;
+    position: relative;
+    background-color:#e73030;
+
+}
+.shenti2{
+    background-color:#ffffff;
+    height:30px;
+}
+.shenti1{
+    background-color: blue;
+    height:780px;
+}
+.shenti3{
+    background-color: #ffffff;
+    height:353px;
+    margin:  0 auto;
+    width:900px;
+}
+.shenti4{
+    background-color:#4ff140;
+    height:270px;
+    margin-right:45px;
+    float:left;
+    width:240px;
+}
+.shenti6{
+    background-color:#673427;
+    height:270px;
+    margin-right:45px;
+    margin-left:45px;
+    float:left;
+    width:240px;
+}
+.shenti7{
+    background-color:#4ff140;
+    height:270px;
+    margin-left:45px;
+    float:left;
+    width:240px;
+}
+.shenti5{
+    background-color: blue;
+    height:780px;
+}
+.jiewei1{
+    background-color:#f3f3f3;
+    height: 53px;
+    clear:both;
+}
+
+.jiewei3{
+    height: 115px;
+    position: relative;
+    background-color:#dfdfdf;
+}
+.jiewei2{
+    background-color:#a2a1a1;
+    height: 53px;
+    margin:0 auto;
+    width:900px;
+    height: 115px;
+}
