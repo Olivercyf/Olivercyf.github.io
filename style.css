@@ -10,7 +10,7 @@ body {
     
     background-repeat:repeat;
     
-    animation: myfirst 60s infinite;
+    animation: myfirst 30s ease;
 }
 
 
@@ -18,14 +18,14 @@ body {
     0% {
         background-image: url("2.png");
         background-repeat: no-repeat;
-        background-position: left;
+        background-position: right;
         background-repeat:repeat;
         
     }
     100% {
         background-image: url("2.png");
         background-repeat: no-repeat;
-        background-position: right;
+        background-position: left;
         background-repeat:repeat;
     }
 }
