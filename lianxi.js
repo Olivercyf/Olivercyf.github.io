@@ -29,11 +29,11 @@ function a() {
 function wa() {
     for (var i = 1; i <= 9; i++) {
         for (var j = 1; j <= i; j++) {
-            document.write(i + "*" + j + "=" + i * j);
+            document.write(i + " * " + j + " = " + i * j);
             if (i * j < 10) {
-                document.write("&nbsp&nbsp");
+                document.write("&nbsp&nbsp&nbsp");
             } else {
-                document.write("&nbsp");
+                document.write("&nbsp&nbsp");
             }
         }
         document.write("<br/>");
